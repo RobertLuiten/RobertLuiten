@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RobertLuiten. Nice to meet you!
-- 👀 I’m interested in music (love playing the piano), software design, and writing!
+- 👀 I’m interested in music (love playing the piano), history, software design, and writing!
 - 🌱 I’m currently learning CS at the University of Washington
 - 😄 Pronouns: he/him
 
