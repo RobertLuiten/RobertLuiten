@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @RobertLuiten. Nice to meet you!
-- 👀 I’m interested in music (love playing the piano), history, software design, and writing!
-- 🌱 I’m currently learning CS at the University of Washington
-- 😄 Pronouns: he/him
+Hey I'm Robert from the land of computers.
 
 <!---
 RobertLuiten/RobertLuiten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
