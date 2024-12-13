@@ -1,4 +1,4 @@
-Hey I'm Robert from the land of computers.
+Hey I'm Robert! Nice to meet you!
 
 <!---
 RobertLuiten/RobertLuiten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
